@@ -1,0 +1,15 @@
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 2 - 2\ConsoleApp2\Zadanie 2 - 2\obj\Debug\net8.0\Zadanie 2 - 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 2 - 2\ConsoleApp2\Zadanie 2 - 2\obj\Debug\net8.0\Zadanie 2 - 2.AssemblyInfoInputs.cache
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 2 - 2\ConsoleApp2\Zadanie 2 - 2\obj\Debug\net8.0\Zadanie 2 - 2.AssemblyInfo.cs
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 2 - 2\ConsoleApp2\Zadanie 2 - 2\obj\Debug\net8.0\Zadanie 2 - 2.csproj.CoreCompileInputs.cache
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 2 - 2\ConsoleApp2\Zadanie 2 - 2\obj\Debug\net8.0\Zadanie 2 - 2.sourcelink.json
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 2 - 2\ConsoleApp2\Zadanie 2 - 2\bin\Debug\net8.0\Zadanie 2 - 2.exe
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 2 - 2\ConsoleApp2\Zadanie 2 - 2\bin\Debug\net8.0\Zadanie 2 - 2.deps.json
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 2 - 2\ConsoleApp2\Zadanie 2 - 2\bin\Debug\net8.0\Zadanie 2 - 2.runtimeconfig.json
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 2 - 2\ConsoleApp2\Zadanie 2 - 2\bin\Debug\net8.0\Zadanie 2 - 2.dll
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 2 - 2\ConsoleApp2\Zadanie 2 - 2\bin\Debug\net8.0\Zadanie 2 - 2.pdb
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 2 - 2\ConsoleApp2\Zadanie 2 - 2\obj\Debug\net8.0\Zadanie 2 - 2.dll
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 2 - 2\ConsoleApp2\Zadanie 2 - 2\obj\Debug\net8.0\refint\Zadanie 2 - 2.dll
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 2 - 2\ConsoleApp2\Zadanie 2 - 2\obj\Debug\net8.0\Zadanie 2 - 2.pdb
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 2 - 2\ConsoleApp2\Zadanie 2 - 2\obj\Debug\net8.0\Zadanie 2 - 2.genruntimeconfig.cache
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 2 - 2\ConsoleApp2\Zadanie 2 - 2\obj\Debug\net8.0\ref\Zadanie 2 - 2.dll

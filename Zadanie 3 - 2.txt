@@ -1,0 +1,9 @@
+Zadanie nr 3
+Własnymi słowami wyjaśnij czym jest Singleton, podaj jeden przykład zastosowania.
+
+
+Odp. Singleton to wzorzec projektowy, który zapewnia, że dana klasa ma tylko jedna instancję w całym programie i umożliwia łatwy dostęp do tej instancji.
+
+
+Przykład:
+Singleton może być użyty np. do logowania zdarzeń. Zamiast tworzyć wiele obiektów aplikacja używa jednego wspólnego.

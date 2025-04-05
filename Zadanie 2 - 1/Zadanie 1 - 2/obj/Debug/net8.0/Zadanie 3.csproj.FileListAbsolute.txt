@@ -1,0 +1,5 @@
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 3\ConsoleApp1\Zadanie 3\obj\Debug\net8.0\Zadanie 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 3\ConsoleApp1\Zadanie 3\obj\Debug\net8.0\Zadanie 3.AssemblyInfoInputs.cache
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 3\ConsoleApp1\Zadanie 3\obj\Debug\net8.0\Zadanie 3.AssemblyInfo.cs
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 3\ConsoleApp1\Zadanie 3\obj\Debug\net8.0\Zadanie 3.csproj.CoreCompileInputs.cache
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 3\ConsoleApp1\Zadanie 3\obj\Debug\net8.0\Zadanie 3.sourcelink.json
