@@ -1,0 +1,4 @@
+Wykonano operację: Wplata
+Wykonano operację: Wyplata
+Wykonano operację: Wplata
+Wykonano operację: Wyplata

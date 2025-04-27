@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 3 - Serializacja", "Zadanie 3 - Serializacja\Zadanie 3 - Serializacja.csproj", "{DDFA99A5-6131-4696-AE8C-9BF9BC5CE92D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDFA99A5-6131-4696-AE8C-9BF9BC5CE92D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDFA99A5-6131-4696-AE8C-9BF9BC5CE92D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDFA99A5-6131-4696-AE8C-9BF9BC5CE92D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDFA99A5-6131-4696-AE8C-9BF9BC5CE92D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

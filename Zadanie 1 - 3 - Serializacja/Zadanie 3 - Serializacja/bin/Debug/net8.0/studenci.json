@@ -1,0 +1,34 @@
+[
+  {
+    "NumerIndeksu": "S123",
+    "NumerGrupy": "G1",
+    "Imie": "Piotr",
+    "Nazwisko": "Zielinski",
+    "Wiek": 22,
+    "DataUrodzenia": "2002-02-10T00:00:00"
+  },
+  {
+    "NumerIndeksu": "S456",
+    "NumerGrupy": "G2",
+    "Imie": "Maria",
+    "Nazwisko": "Wisniewska",
+    "Wiek": 23,
+    "DataUrodzenia": "2001-03-05T00:00:00"
+  },
+  {
+    "NumerIndeksu": "S789",
+    "NumerGrupy": "G3",
+    "Imie": "Lukasz",
+    "Nazwisko": "Duda",
+    "Wiek": 21,
+    "DataUrodzenia": "2004-04-01T00:00:00"
+  },
+  {
+    "NumerIndeksu": "S012",
+    "NumerGrupy": "G4",
+    "Imie": "Agnieszka",
+    "Nazwisko": "Piotrowska",
+    "Wiek": 24,
+    "DataUrodzenia": "2001-11-29T00:00:00"
+  }
+]

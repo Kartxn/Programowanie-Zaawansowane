@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <Imie>Piotr</Imie>
+    <Nazwisko>Zielinski</Nazwisko>
+    <Wiek>22</Wiek>
+    <DataUrodzenia>2002-02-10T00:00:00</DataUrodzenia>
+    <NumerIndeksu>S123</NumerIndeksu>
+    <NumerGrupy>G1</NumerGrupy>
+  </Student>
+  <Student>
+    <Imie>Maria</Imie>
+    <Nazwisko>Wisniewska</Nazwisko>
+    <Wiek>23</Wiek>
+    <DataUrodzenia>2001-03-05T00:00:00</DataUrodzenia>
+    <NumerIndeksu>S456</NumerIndeksu>
+    <NumerGrupy>G2</NumerGrupy>
+  </Student>
+  <Student>
+    <Imie>Lukasz</Imie>
+    <Nazwisko>Duda</Nazwisko>
+    <Wiek>21</Wiek>
+    <DataUrodzenia>2004-04-01T00:00:00</DataUrodzenia>
+    <NumerIndeksu>S789</NumerIndeksu>
+    <NumerGrupy>G3</NumerGrupy>
+  </Student>
+  <Student>
+    <Imie>Agnieszka</Imie>
+    <Nazwisko>Piotrowska</Nazwisko>
+    <Wiek>24</Wiek>
+    <DataUrodzenia>2001-11-29T00:00:00</DataUrodzenia>
+    <NumerIndeksu>S012</NumerIndeksu>
+    <NumerGrupy>G4</NumerGrupy>
+  </Student>
+</ArrayOfStudent>

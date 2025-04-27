@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfOsoba xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Osoba>
+    <Imie>Jan</Imie>
+    <Nazwisko>Kowalski</Nazwisko>
+    <Wiek>25</Wiek>
+    <DataUrodzenia>2000-01-15T00:00:00</DataUrodzenia>
+  </Osoba>
+  <Osoba>
+    <Imie>Anna</Imie>
+    <Nazwisko>Nowak</Nazwisko>
+    <Wiek>30</Wiek>
+    <DataUrodzenia>1994-05-20T00:00:00</DataUrodzenia>
+  </Osoba>
+  <Osoba>
+    <Imie>Pawel</Imie>
+    <Nazwisko>Malinowski</Nazwisko>
+    <Wiek>28</Wiek>
+    <DataUrodzenia>1996-07-12T00:00:00</DataUrodzenia>
+  </Osoba>
+  <Osoba>
+    <Imie>Katarzyna</Imie>
+    <Nazwisko>Kaczmarek</Nazwisko>
+    <Wiek>26</Wiek>
+    <DataUrodzenia>1998-09-03T00:00:00</DataUrodzenia>
+  </Osoba>
+</ArrayOfOsoba>

@@ -1,0 +1,15 @@
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 3 - 1\Zadanie 3 - Serializacja\Zadanie 3 - Serializacja\bin\Debug\net8.0\Zadanie 3 - Serializacja.exe
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 3 - 1\Zadanie 3 - Serializacja\Zadanie 3 - Serializacja\bin\Debug\net8.0\Zadanie 3 - Serializacja.deps.json
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 3 - 1\Zadanie 3 - Serializacja\Zadanie 3 - Serializacja\bin\Debug\net8.0\Zadanie 3 - Serializacja.runtimeconfig.json
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 3 - 1\Zadanie 3 - Serializacja\Zadanie 3 - Serializacja\bin\Debug\net8.0\Zadanie 3 - Serializacja.dll
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 3 - 1\Zadanie 3 - Serializacja\Zadanie 3 - Serializacja\bin\Debug\net8.0\Zadanie 3 - Serializacja.pdb
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 3 - 1\Zadanie 3 - Serializacja\Zadanie 3 - Serializacja\obj\Debug\net8.0\Zadanie 3 - Serializacja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 3 - 1\Zadanie 3 - Serializacja\Zadanie 3 - Serializacja\obj\Debug\net8.0\Zadanie 3 - Serializacja.AssemblyInfoInputs.cache
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 3 - 1\Zadanie 3 - Serializacja\Zadanie 3 - Serializacja\obj\Debug\net8.0\Zadanie 3 - Serializacja.AssemblyInfo.cs
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 3 - 1\Zadanie 3 - Serializacja\Zadanie 3 - Serializacja\obj\Debug\net8.0\Zadanie 3 - Serializacja.csproj.CoreCompileInputs.cache
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 3 - 1\Zadanie 3 - Serializacja\Zadanie 3 - Serializacja\obj\Debug\net8.0\Zadanie 3 - Serializacja.sourcelink.json
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 3 - 1\Zadanie 3 - Serializacja\Zadanie 3 - Serializacja\obj\Debug\net8.0\Zadanie 3 - Serializacja.dll
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 3 - 1\Zadanie 3 - Serializacja\Zadanie 3 - Serializacja\obj\Debug\net8.0\refint\Zadanie 3 - Serializacja.dll
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 3 - 1\Zadanie 3 - Serializacja\Zadanie 3 - Serializacja\obj\Debug\net8.0\Zadanie 3 - Serializacja.pdb
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 3 - 1\Zadanie 3 - Serializacja\Zadanie 3 - Serializacja\obj\Debug\net8.0\Zadanie 3 - Serializacja.genruntimeconfig.cache
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 3 - 1\Zadanie 3 - Serializacja\Zadanie 3 - Serializacja\obj\Debug\net8.0\ref\Zadanie 3 - Serializacja.dll
