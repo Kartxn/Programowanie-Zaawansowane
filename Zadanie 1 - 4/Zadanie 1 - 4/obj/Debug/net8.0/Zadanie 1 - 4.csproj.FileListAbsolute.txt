@@ -1,0 +1,15 @@
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 4 - 1\Zadanie 1 - 4\Zadanie 1 - 4\bin\Debug\net8.0\Zadanie 1 - 4.exe
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 4 - 1\Zadanie 1 - 4\Zadanie 1 - 4\bin\Debug\net8.0\Zadanie 1 - 4.deps.json
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 4 - 1\Zadanie 1 - 4\Zadanie 1 - 4\bin\Debug\net8.0\Zadanie 1 - 4.runtimeconfig.json
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 4 - 1\Zadanie 1 - 4\Zadanie 1 - 4\bin\Debug\net8.0\Zadanie 1 - 4.dll
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 4 - 1\Zadanie 1 - 4\Zadanie 1 - 4\bin\Debug\net8.0\Zadanie 1 - 4.pdb
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 4 - 1\Zadanie 1 - 4\Zadanie 1 - 4\obj\Debug\net8.0\Zadanie 1 - 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 4 - 1\Zadanie 1 - 4\Zadanie 1 - 4\obj\Debug\net8.0\Zadanie 1 - 4.AssemblyInfoInputs.cache
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 4 - 1\Zadanie 1 - 4\Zadanie 1 - 4\obj\Debug\net8.0\Zadanie 1 - 4.AssemblyInfo.cs
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 4 - 1\Zadanie 1 - 4\Zadanie 1 - 4\obj\Debug\net8.0\Zadanie 1 - 4.csproj.CoreCompileInputs.cache
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 4 - 1\Zadanie 1 - 4\Zadanie 1 - 4\obj\Debug\net8.0\Zadanie 1 - 4.sourcelink.json
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 4 - 1\Zadanie 1 - 4\Zadanie 1 - 4\obj\Debug\net8.0\Zadanie 1 - 4.dll
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 4 - 1\Zadanie 1 - 4\Zadanie 1 - 4\obj\Debug\net8.0\refint\Zadanie 1 - 4.dll
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 4 - 1\Zadanie 1 - 4\Zadanie 1 - 4\obj\Debug\net8.0\Zadanie 1 - 4.pdb
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 4 - 1\Zadanie 1 - 4\Zadanie 1 - 4\obj\Debug\net8.0\Zadanie 1 - 4.genruntimeconfig.cache
+C:\Users\barte\OneDrive\Documents\GitHub\Programowanie-Zaawansowane\Zadanie 4 - 1\Zadanie 1 - 4\Zadanie 1 - 4\obj\Debug\net8.0\ref\Zadanie 1 - 4.dll
